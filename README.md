@@ -70,7 +70,7 @@
         <div class="hobbies">
             <h3>My Hobbies</h3>
             <ul>
-                <li>Watching tiktok vidoes</li>
+                <li>Watching tiktok vidoe</li>
                 <li>Watching Movies</li>
                 <li>Exploring Nature</li>
             </ul>
